@@ -1,0 +1,13 @@
+--------------------------001-----------------------------
+wttr.in
+# web site for whater in cli enviroment
+example\
+
+curl wttr.in
+or
+links wttr.in
+--------------------------002-----------------------------
+oneko 
+# this is a funny command
+run command and just see
+--------------------------003-----------------------------
